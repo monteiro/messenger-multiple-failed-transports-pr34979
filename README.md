@@ -7,7 +7,7 @@ Symfony Messenger Multiple Failed Transports Feature demo
 | Bug fix?      | no
 | New feature?  | yes <!-- please update src/**/CHANGELOG.md files -->
 | Deprecations? | no <!-- please update UPGRADE-*.md and src/**/CHANGELOG.md files -->
-| Tickets       | Fix https://github.com/symfony/symfony/pull/34979
+| Tickets       | Fix https://github.com/symfony/symfony/issues/34911
 | License       | MIT
 | Doc PR        | symfony/symfony-docs#13489
 
